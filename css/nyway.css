@@ -1,0 +1,88 @@
+body {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eaf6f6;
+}
+
+hr {
+  margin-bottom: 50px;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 3px;
+  width: 100%;
+}
+
+.nyway-nav-titles {
+  font-size: 3.25em;
+  line-height: 1.35em;
+  text-align: center;
+  color: #303038;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.nyway-lic {
+  font-size: 2.25em;
+  font-style: italic;
+  line-height: 1.35em;
+  text-align: center;
+  color: #303038;
+  margin-top: 20px;
+}
+
+.nyway-title {
+  font-style: italic;
+  text-align: center;
+  margin-top: -10px;
+}
+
+.nyway-img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  width: 850px;
+  height: 400px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nyway-slide {
+  max-width: 100%;
+  height: auto;
+  width: 150px;
+}
+
+.about-sec {
+  display: block;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.div-sec {
+  width: 100%;
+  margin: auto;
+}
+
+section {
+  display: inline-block;
+  width: 40%;
+  vertical-align: top;
+  vertical-align: middle;
+  text-align: center;
+  /* margin-right: 25px; */
+}
+
+.about-info {
+  /* width: 50%;
+  float: left; */
+  margin-right: 95px;
+}
+
+.about-img {
+  display: inline-block;
+  width: 250px;
+  height: 300px;
+  border-radius: 50%;
+}

@@ -1,0 +1,41 @@
+@media screen and (max-width: 760px) {
+  .container {
+    width: 100%;
+  }
+
+  .nyway-nav-titles {
+    font-size: 2.25em;
+    line-height: 1em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  .head-titles {
+    text-align: center;
+    font-size: 1.75em;
+  }
+
+  p {
+    font-size: 1.35rem;
+  }
+
+  .carousel-container2 {
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  hr {
+    margin-bottom: 25px;
+  }
+
+  section {
+    display: block;
+    width: 100%;
+  }
+
+  #footer {
+    display: none;
+  }
+}
